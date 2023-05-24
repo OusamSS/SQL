@@ -1,7 +1,4 @@
-
-
-# WHERE ARE MOST OF THE SERIES TAKING PLACES ?
-# PLACES BY TYPES OF FILMS ?
+## Some querries about a dataset providing data about filming taking place in paris
 
 #WHAT TYPE OF FILMING IS THERE ?
 SELECT
